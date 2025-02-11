@@ -158,7 +158,8 @@ export default function FooterOne() {
           <div className="container">
             <div className="footer-wrapper footer-wrapperv01 d-md-flex d-grid gap-md-0 gap-2 align-items-center justify-content-md-between justify-content-center text-md-start text-center">
               <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                © rk-theme {new Date().getFullYear()}. All Rights Reserved
+                © Aaran Agritrade Ltd {new Date().getFullYear()}. All Rights
+                Reserved
               </p>
               <ul className="footer-menu wow fadeInRight" data-wow-delay=".5s">
                 <li>
