@@ -31,7 +31,7 @@ export default function ContactInfo() {
                   <i className="fa-solid fa-phone"></i>
                 </div>
                 <div className="co-box">
-                  <h5 className="black">Lets Talk us</h5>
+                  <h5 className="black">Call Us</h5>
                   <a href="#" className="pra">
                     Phone number: (+252) 615 567-719
                   </a>

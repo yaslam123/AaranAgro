@@ -31,7 +31,7 @@ export default function HomeThree() {
       <CounterHomeThree />
       <FaqHomeThree />
       <CtaHomeOne />
-      <BrandHomeOne />
+      {/* <BrandHomeOne /> */}
       <BlogHomeThree />
       <FooterOne />
     </>

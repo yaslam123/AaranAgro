@@ -42,7 +42,7 @@ export default function SubscribeHomeThree() {
                       >
                         Contact
                       </h5>
-                      <h2>Get Touch Here</h2>
+                      <h2>Leave a Message</h2>
                     </div>
                     <form
                       onSubmit={(e) => e.preventDefault()}

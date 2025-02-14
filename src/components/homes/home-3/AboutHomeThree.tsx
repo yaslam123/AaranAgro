@@ -47,7 +47,7 @@ export default function AboutHomeThree() {
                       className="p1-clr text-uppercase wow fadeInLeft"
                       data-wow-delay="0.4s"
                     >
-                      Why Choose us
+                      Why Choose Aaran
                     </h5>
                     <h2 className="wow fadeInDown" data-wow-delay=".3s">
                       Farming with passion the feeding with purpose

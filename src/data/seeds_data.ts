@@ -580,14 +580,14 @@ const seeds_data: PortfolioDataType[] = [
     category: "OPV Seeds",
   },
 
-  // hyprid seeds
+  // Hyprid seeds
   {
     id: 201,
     title: "Broccoli Isabela F1",
-    images: ["/assets/img/hyprid/Broccoli.jpg"],
+    images: ["/assets/img/Hyprid/Broccoli.jpg"],
     imgDesc:
       "A high-yielding broccoli variety known for its compact, dark green heads.",
-    thumbnails: ["/assets/img/hyprid/Broccoli.jpg"],
+    thumbnails: ["/assets/img/Hyprid/Broccoli.jpg"],
     description:
       "Broccoli Isabela F1 is a hybrid variety with excellent disease resistance, producing dense and flavorful florets.",
     enviroment: "Cool to moderate",
@@ -601,10 +601,10 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 202,
     title: "Cabbage Vizir F1",
-    images: ["/assets/img/hyprid/Cabbage.jpg"],
+    images: ["/assets/img/Hyprid/Cabbage.jpg"],
     imgDesc:
       "A fast-growing hybrid cabbage variety producing large, uniform heads.",
-    thumbnails: ["/assets/img/hyprid/Cabbage.jpg"],
+    thumbnails: ["/assets/img/Hyprid/Cabbage.jpg"],
     description:
       "Cabbage Vizir F1 is a robust hybrid known for its disease resistance and firm, high-quality heads.",
     enviroment: "Cool to moderate",
@@ -618,9 +618,9 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 203,
     title: "Cauliflower Olymp F1",
-    images: ["/assets/img/hyprid/Cauliflower.jpg"],
+    images: ["/assets/img/Hyprid/Cauliflower.jpg"],
     imgDesc: "A premium hybrid cauliflower with dense, white curds.",
-    thumbnails: ["/assets/img/hyprid/Cauliflower.jpg"],
+    thumbnails: ["/assets/img/Hyprid/Cauliflower.jpg"],
     description:
       "Cauliflower Olymp F1 is a high-yielding variety known for its uniform head formation and crisp texture.",
     enviroment: "Cool climate",
@@ -634,10 +634,10 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 204,
     title: "Cucumber Tropical F1",
-    images: ["/assets/img/hyprid/Cucumber.jpg"],
+    images: ["/assets/img/Hyprid/Cucumber.jpg"],
     imgDesc:
       "A heat-resistant cucumber variety with smooth, dark green fruits.",
-    thumbnails: ["/assets/img/hyprid/Cucumber.jpg"],
+    thumbnails: ["/assets/img/Hyprid/Cucumber.jpg"],
     description:
       "Cucumber Tropical F1 is a highly productive hybrid suitable for warm climates, producing crisp and juicy cucumbers.",
     enviroment: "Warm to tropical",
@@ -651,10 +651,10 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 205,
     title: "Eggplant Kalenda F1",
-    images: ["/assets/img/hyprid/Eggplant.jpg"],
+    images: ["/assets/img/Hyprid/Eggplant.jpg"],
     imgDesc:
       "A high-yielding eggplant variety with glossy, deep purple fruits.",
-    thumbnails: ["/assets/img/hyprid/Eggplant.jpg"],
+    thumbnails: ["/assets/img/Hyprid/Eggplant.jpg"],
     description:
       "Eggplant Kalenda F1 is a vigorous hybrid known for its uniform fruit size, smooth skin, and excellent taste.",
     enviroment: "Warm to tropical",
@@ -668,9 +668,9 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 206,
     title: "Melon Jino F1",
-    images: ["/assets/img/hyprid/Melon.jpg"],
+    images: ["/assets/img/Hyprid/Melon.jpg"],
     imgDesc: "A premium melon variety with sweet, juicy flesh.",
-    thumbnails: ["/assets/img/hyprid/Melon.jpg"],
+    thumbnails: ["/assets/img/Hyprid/Melon.jpg"],
     description:
       "Melon Jino F1 is a hybrid melon with excellent disease resistance, producing large, aromatic fruits.",
     enviroment: "Tropical",
@@ -684,9 +684,9 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 207,
     title: "Melon Kappa F1",
-    images: ["/assets/img/hyprid/MelonKappa.jpg"],
+    images: ["/assets/img/Hyprid/MelonKappa.jpg"],
     imgDesc: "A high-yielding hybrid melon with excellent sweetness.",
-    thumbnails: ["/assets/img/hyprid/MelonKappa.jpg"],
+    thumbnails: ["/assets/img/Hyprid/MelonKappa.jpg"],
     description:
       "Melon Kappa F1 produces round, orange-fleshed melons known for their intense sweetness and rich aroma.",
     enviroment: "Tropical",
@@ -700,9 +700,9 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 208,
     title: "Melon Ninja F1",
-    images: ["/assets/img/hyprid/MelonNinja.jpg"],
+    images: ["/assets/img/Hyprid/MelonNinja.jpg"],
     imgDesc: "A disease-resistant hybrid melon with firm, juicy flesh.",
-    thumbnails: ["/assets/img/hyprid/MelonNinja.jpg"],
+    thumbnails: ["/assets/img/Hyprid/MelonNinja.jpg"],
     description:
       "Melon Ninja F1 is a hybrid variety that produces sweet, refreshing melons with excellent shelf life.",
     enviroment: "Tropical",
@@ -717,10 +717,10 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 209,
     title: "Papaya Komoa F1",
-    images: ["/assets/img/hyprid/Papaya.jpg"],
+    images: ["/assets/img/Hyprid/Papaya.jpg"],
     imgDesc:
       "A high-yielding papaya variety known for its sweet and aromatic fruits.",
-    thumbnails: ["/assets/img/hyprid/Papaya.jpg"],
+    thumbnails: ["/assets/img/Hyprid/Papaya.jpg"],
     description:
       "Papaya Komoa F1 is a fast-growing hybrid with excellent disease resistance, producing large, juicy fruits rich in vitamins.",
     enviroment: "Tropical",
@@ -734,10 +734,10 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 210,
     title: "Papaya Rana",
-    images: ["/assets/img/hyprid/PapayaRana.jpg"],
+    images: ["/assets/img/Hyprid/PapayaRana.jpg"],
     imgDesc:
       "A robust papaya hybrid with excellent yield and disease resistance.",
-    thumbnails: ["/assets/img/hyprid/PapayaRana.jpg"],
+    thumbnails: ["/assets/img/Hyprid/PapayaRana.jpg"],
     description:
       "Papaya Rana produces large, sweet fruits with an appealing texture, making it a preferred choice for both fresh consumption and processing.",
     enviroment: "Tropical",
@@ -751,9 +751,9 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 211,
     title: "Pumpkin Gladiator F1",
-    images: ["/assets/img/hyprid/Pumpkin.jpg"],
+    images: ["/assets/img/Hyprid/Pumpkin.jpg"],
     imgDesc: "A high-yielding hybrid pumpkin variety with firm, sweet flesh.",
-    thumbnails: ["/assets/img/hyprid/Pumpkin.jpg"],
+    thumbnails: ["/assets/img/Hyprid/Pumpkin.jpg"],
     description:
       "Pumpkin Gladiator F1 is known for its large fruit size, long storage life, and excellent resistance to common pumpkin diseases.",
     enviroment: "Tropical",
@@ -767,9 +767,9 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 212,
     title: "Sweet Pepper Aalberic F1",
-    images: ["/assets/img/hyprid/SweetPepper.jpg"],
+    images: ["/assets/img/Hyprid/SweetPepper.jpg"],
     imgDesc: "A sweet and crunchy pepper hybrid with uniform fruit size.",
-    thumbnails: ["/assets/img/hyprid/SweetPepper.jpg"],
+    thumbnails: ["/assets/img/Hyprid/SweetPepper.jpg"],
     description:
       "Sweet Pepper Aalberic F1 is a hybrid variety that produces thick-walled, glossy peppers with a mild, sweet flavor.",
     enviroment: "Warm to tropical",
@@ -783,10 +783,10 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 213,
     title: "Sweet Pepper Goliath F1",
-    images: ["/assets/img/hyprid/SweetPepper2.jpg"],
+    images: ["/assets/img/Hyprid/SweetPepper2.jpg"],
     imgDesc:
       "A large-fruited hybrid sweet pepper variety with excellent taste.",
-    thumbnails: ["/assets/img/hyprid/SweetPepper2.jpg"],
+    thumbnails: ["/assets/img/Hyprid/SweetPepper2.jpg"],
     description:
       "Sweet Pepper Goliath F1 produces thick, blocky peppers with outstanding disease resistance and high yield potential.",
     enviroment: "Warm to tropical",
@@ -800,9 +800,9 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 214,
     title: "Tomato Anaya F1",
-    images: ["/assets/img/hyprid/Tomato.jpg"],
+    images: ["/assets/img/Hyprid/Tomato.jpg"],
     imgDesc: "A high-yielding hybrid tomato with firm, juicy fruits.",
-    thumbnails: ["/assets/img/hyprid/Tomato.jpg"],
+    thumbnails: ["/assets/img/Hyprid/Tomato.jpg"],
     description:
       "Tomato Anaya F1 is a hybrid variety known for its high resistance to diseases, producing uniform, deep red fruits.",
     enviroment: "Tropical",
@@ -832,10 +832,10 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 216,
     title: "Tomato Jaguar+ F1",
-    images: ["/assets/img/hyprid/Tomato2.jpg"],
+    images: ["/assets/img/Hyprid/Tomato2.jpg"],
     imgDesc:
       "A hybrid tomato variety known for its superior fruit setting and disease resistance.",
-    thumbnails: ["/assets/img/hyprid/Tomato2.jpg"],
+    thumbnails: ["/assets/img/Hyprid/Tomato2.jpg"],
     description:
       "Tomato Jaguar+ F1 produces firm, high-quality fruits with an extended shelf life, making it ideal for commercial production.",
     enviroment: "Tropical",
@@ -849,10 +849,10 @@ const seeds_data: PortfolioDataType[] = [
   {
     id: 217,
     title: "Watermelon Koloss F1",
-    images: ["/assets/img/hyprid/Watermelon.jpg"],
+    images: ["/assets/img/Hyprid/Watermelon.jpg"],
     imgDesc:
       "A high-yielding hybrid watermelon variety with sweet, juicy flesh.",
-    thumbnails: ["/assets/img/hyprid/Watermelon.jpg"],
+    thumbnails: ["/assets/img/Hyprid/Watermelon.jpg"],
     description:
       "Watermelon Koloss F1 produces large, oval-shaped fruits with deep red flesh, known for its high sugar content and excellent transportability.",
     enviroment: "Tropical",

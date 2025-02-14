@@ -145,8 +145,11 @@ export default function ProductDetailsArea({ product }: { product: any }) {
                         }
                       )}
                     </ul>
-                    <Link href="/contact" className="cmn-btn d-inline-flex">
-                      Get In Touch
+                    <Link
+                      href="http://wa.me/+252617475902"
+                      className="cmn-btn d-inline-flex"
+                    >
+                      Buy Now
                     </Link>
                   </div>
                 </div>

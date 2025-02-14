@@ -15,7 +15,7 @@ export default function CtaHomeOne() {
             <div className="col-lg-6">
               <div className="section-title mb-40">
                 <h5 className="p1-clr wow fadeInLeft" data-wow-delay="0.4s">
-                  Who we are
+                  We Are Aaran Agritrade Ltd
                 </h5>
                 <h2
                   className="wow fadeInDown white-clr mb-24"
@@ -47,18 +47,7 @@ export default function CtaHomeOne() {
                     <input type="number" placeholder="Your Number" />
                   </div>
                   <div className="col-lg-6">
-                    <NiceSelect
-                      options={[
-                        { value: "00", text: "Your Area" },
-                        { value: "01", text: "Us" },
-                        { value: "02", text: "Uk" },
-                        { value: "04", text: "Turky" },
-                      ]}
-                      defaultCurrent={0}
-                      onChange={selectHandler}
-                      placeholder="Select an option"
-                      name="myNiceSelect"
-                    />
+                    <input type="text" placeholder="Your City/Market" />
                   </div>
                   <div className="col-lg-12">
                     <textarea

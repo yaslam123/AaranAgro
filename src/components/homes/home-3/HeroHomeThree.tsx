@@ -21,13 +21,13 @@ export default function HeroHomeThree() {
                   <h1 className="wow fadeInUp" data-wow-delay="0.4s">
                     Discover the{" "}
                     <span>
-                      art <br /> of gardening
+                      art <br /> of Cultivating
                     </span>
                   </h1>
                   <p className="wow fadeInUp" data-wow-delay="0.6s">
-                    We have been operating for over a decade, providing
-                    top-notch services to our clients and building a strong
-                    track record in the industry.
+                    We have been operating for decades, providing top-notch
+                    services to our clients and building a strong track record
+                    in the industry.
                   </p>
                   <div className="adjust-video">
                     <Link
