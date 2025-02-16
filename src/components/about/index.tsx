@@ -24,7 +24,7 @@ export default function About() {
       <ServiceHomeOne />
       <ServiceHomeThree />
       <CtaHomeOne />
-      <BrandHomeOne style_3={true} />
+      {/* <BrandHomeOne style_3={true} /> */}
 
       <FooterOne />
     </>

@@ -46,7 +46,7 @@ export default function AboutHomeTwo() {
                   <p className="wow fadeInUp mb-lg-4 mb-3" data-wow-delay=".4s">
                     We maintain strong partnerships with international seed
                     producers and agricultural input companies from Italy,
-                    Holland, France, and Yemen. Our strategic focus is on
+                    Netherlands, France, and Yemen. Our strategic focus is on
                     developing seed varieties that offer durability, extended
                     shelf life, and high yields, all while being environmentally
                     friendly. These varieties are well-suited for both
