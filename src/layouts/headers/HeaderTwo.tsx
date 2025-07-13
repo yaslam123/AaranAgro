@@ -28,7 +28,7 @@ export default function HeaderTwo() {
                 </a>
               </li>
               <li>
-                <a href="debbie.baker@example.com" className="link">
+                <a href="mailto:info@aaranagritrade.com" className="link">
                   <i className="fa-solid fa-envelope"></i>
                   info@aaranagritrade.com
                 </a>

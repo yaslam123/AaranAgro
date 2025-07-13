@@ -131,19 +131,22 @@ export default function FooterOne() {
                   </div>
                   <ul className="list-area list-contact">
                     <li>
-                      <a href="#">
+                      <a href="mailto:info@aaranagritrade.com">
                         <i className="fa-solid fa-envelope"></i>
                         aaranagritrade1@gmail.com
                       </a>
                     </li>
                     <li>
-                      <a href="info@example.com" className="link">
+                      <a
+                        href="https://maps.app.goo.gl/dX27UndBqxuEW6Kp9"
+                        className="link"
+                      >
                         <i className="fa-solid fa-location-dot"></i>
                         Bakaaraha Daawada, Mogadishu, Somalia
                       </a>
                     </li>
                     <li>
-                      <a href="#" className="link">
+                      <a href="tel:+252617475902" className="link">
                         <i className="fa-solid fa-phone"></i>
                         (+252) 617 475-902
                       </a>
