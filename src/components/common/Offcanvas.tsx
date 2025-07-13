@@ -41,7 +41,10 @@ export default function Offcanvas({ open, setOpen }: Props) {
                       <i className="fal fa-map-marker-alt"></i>
                     </div>
                     <div className="offcanvas__contact-text">
-                      <a target="_blank" href="#">
+                      <a
+                        target="_blank"
+                        href="https://maps.app.goo.gl/dX27UndBqxuEW6Kp9"
+                      >
                         Bakaaraha Daawada, Mogadishu, Somalia
                       </a>
                     </div>
@@ -61,7 +64,7 @@ export default function Offcanvas({ open, setOpen }: Props) {
                       <i className="fal fa-envelope"></i>
                     </div>
                     <div className="offcanvas__contact-text">
-                      <a href="mailto:demo23yourmail.com">
+                      <a href="mailto:info@aaranagritrade.com">
                         <span className="mailto:demo23yourmail.com">
                           info@aaranagritrade.com
                         </span>
@@ -73,7 +76,7 @@ export default function Offcanvas({ open, setOpen }: Props) {
                       <i className="far fa-phone"></i>
                     </div>
                     <div className="offcanvas__contact-text">
-                      <a href="tel:+11002345909">(+252) 617 475-902</a>
+                      <a href="tel:+252617475902">(+252) 617 475-902</a>
                     </div>
                   </li>
                 </ul>
