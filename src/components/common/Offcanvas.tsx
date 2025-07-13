@@ -63,7 +63,7 @@ export default function Offcanvas({ open, setOpen }: Props) {
                     <div className="offcanvas__contact-text">
                       <a href="mailto:demo23yourmail.com">
                         <span className="mailto:demo23yourmail.com">
-                          aaranagritrade1@gmail.com
+                          info@aaranagritrade.com
                         </span>
                       </a>
                     </div>
